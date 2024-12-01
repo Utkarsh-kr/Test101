@@ -7,3 +7,5 @@ Okay so this is the line that I expect to push on github
 Now let's see if this automatically reflects back to my orignal folder
 
 let's make new changes and send it back to github
+
+So since I am in new brach and this will not fuck with my orignal branch and I can do all type of shit here.
